@@ -104,3 +104,14 @@ footer {
 	margin-top: 0;
 }
 
+#content ul {
+	padding: 0;
+	list-style-position: inside;
+	margin: 0;
+}
+
+#content li {
+	list-style-image: url("./marker.gif");
+	display: list-item;
+}
+
