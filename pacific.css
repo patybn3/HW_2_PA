@@ -115,3 +115,13 @@ footer {
 	display: list-item;
 }
 
+#contact {
+	clear: both;
+	padding-top: 20px;
+}
+
+.resort {
+	color: rgb(104, 125, 151);
+	font-weight: 600;
+}
+
