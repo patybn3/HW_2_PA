@@ -17,6 +17,15 @@ header {
 	color: white;
 }
 
+#wrapper {
+	background-color: white;
+	width: 80%;
+	min-width: 600px;
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+}
+
 nav ul {
 	font-size: 1.2em;
 }
