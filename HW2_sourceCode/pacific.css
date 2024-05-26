@@ -88,3 +88,40 @@ footer {
 	padding: 50px 0 20px 0;
 }
 
+#content {
+	margin: 0 20px 0 230px;
+	position: relative;
+}
+
+#content img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 5px;
+}
+
+#content p, ul {
+	text-align: left;
+	margin-top: 0;
+}
+
+#content ul {
+	padding: 0;
+	list-style-position: inside;
+	margin: 0;
+}
+
+#content li {
+	list-style-image: url("./marker.gif");
+	display: list-item;
+}
+
+#contact {
+	clear: both;
+	padding-top: 20px;
+}
+
+.resort {
+	color: rgb(104, 125, 151);
+	font-weight: 600;
+}
+
