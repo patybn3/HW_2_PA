@@ -13,12 +13,19 @@ https://patybn3.github.io/HW_2_PA/
 A HTML code was provided by the instructor together with an initial css code. The goal of the assignment is to style the page in accordance with the picture provided by the instructor. Refer to ./HW2_read for the sample images. The assignment reads:
 
 [x] The 'main' area of the page is 80% of the page width, but with a 600px minimum. It is centered in the browser.
+
 [x] The navigation bar has a fixed width, while the content to the right of the navigation varies.
+
 [x] The gradient background is done with the image provided (ptrbackground) but does not continue down the page. 
+
 [x] The page is solid #00569f below the gradient.
+
 [x] Notice that the bulleted list uses as special bullet (included with your files as marker.gif), and note how that bullet aligns with the paragraph above it.
+
 [x] The resort name gets special coloring in the main page content.
+
 [x] There are no bullets or underlining with the navigation links.
+
 
 #### Example Image Provided:
 
@@ -72,7 +79,7 @@ footer {
 
 Refer to code source.
 
-Validaded with W3C CSS Validation Service: http://jigsaw.w3.org/css-validator
+Validaded with W3C CSS Validation Service: https://jigsaw.w3.org/css-validator/
 
 ### RUN
 
