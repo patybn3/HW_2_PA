@@ -93,3 +93,14 @@ footer {
 	position: relative;
 }
 
+#content img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 5px;
+}
+
+#content p, ul {
+	text-align: left;
+	margin-top: 0;
+}
+
