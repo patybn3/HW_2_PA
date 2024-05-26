@@ -3,9 +3,10 @@ header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 }
 
 body {
-	background-color: ;
+	background-color:#00569f;
 	color: #666666;
 	font-family: Arial, Helvetica, sans-serif;
+	background-image: url("./ptrbackground.jpg");
 }
 
 nav ul {
