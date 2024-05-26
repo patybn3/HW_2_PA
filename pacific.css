@@ -43,6 +43,13 @@ nav ul {
 	font-size: 1.2em;
 }
 
+nav a {
+	color: rgb(0, 2, 48);
+	font-weight: 600;
+	text-decoration: none;
+	margin-left: -20px;
+}
+
 nav a:visited {
 	color: #344873;
 }
