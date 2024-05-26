@@ -88,3 +88,8 @@ footer {
 	padding: 50px 0 20px 0;
 }
 
+#content {
+	margin: 0 20px 0 230px;
+	position: relative;
+}
+
