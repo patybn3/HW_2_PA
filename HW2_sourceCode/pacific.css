@@ -1,3 +1,6 @@
+/* Modified by Patricia Antlitz 2024 -> body, header, wrapper, nav, nav <a>, footer,
+content, content img, p, ul, li, contact and resort. */
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
@@ -72,10 +75,6 @@ h2 {
 	font-family: Georgia, "Times New Roman", serif;
 }
 
-#contact {
-	font-size: 90%;
-}
-
 dt {
 	color: #000033;
 }
@@ -124,4 +123,3 @@ footer {
 	color: rgb(104, 125, 151);
 	font-weight: 600;
 }
-
